@@ -1,0 +1,30 @@
+[
+        {
+            "name": "Pippa",
+            "belt": "Red",
+            "rate": 50,
+            "available": true,
+            "thumb": "content/img/pippa.png"
+        },
+        {
+            "name": "Adam",
+            "belt": "Green",
+            "rate": 10,
+            "available": true,
+            "thumb": "content/img/adam.png"
+        },
+        {
+            "name":"Steven",
+            "belt": "Blue",
+            "rate": 30,
+            "available": true,
+            "thumb": "content/img/steven.png"
+        },
+        {
+            "name": "Graeme",
+            "belt": "Black",
+            "rate": 1000,
+            "available": true,
+            "thumb": "content/img/graeme.png"
+        }
+    ]
