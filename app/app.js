@@ -1,8 +1,8 @@
 var myDevApp = angular.module('myDevApp', ['ngRoute', 'ngAnimate']);
 
-myDevApp.config(['$routeProvider', '$locationProvider', function($routeProvider, $locationProvider) {
+myDevApp.config(['$routeProvider', function($routeProvider) {
     
-    $locationProvider.html5Mode(true);
+    //$locationProvider.html5Mode(true);
 
     $routeProvider
     .when('/home', {
